@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #0d79b8;
+}
+h1 {
+    font-size: 90px;
+    color: #777;
+    font-family: sans-serif;
+}
